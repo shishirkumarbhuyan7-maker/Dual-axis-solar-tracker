@@ -150,6 +150,19 @@ The solar cell was tested using different resistive loads to study the relations
 | 66.6 Ω | 4.53 V | 66.6 mA | 301.7 mW |
 | 82 Ω | 4.52 V | 56.3 mA | 254.5 mW |
 
+## PV Characterization Graphs
+
+### Power vs Load Resistance
+
+![PV Output Power vs Load Resistance](pv_power_vs_load.png)
+
+### I–V Characteristic
+
+![PV I-V Characteristic](pv_iv_characteristic.png)
+
+### P–V Characteristic
+
+![PV P-V Characteristic](pv_pv_characteristic.png)
 The highest measured output power among the tested load conditions was approximately:
 
 Power ≈ 301.7 mW
