@@ -259,6 +259,13 @@ Dual-axis-solar-tracker/
 - Compare fixed-panel and tracking-panel output under identical conditions.
 - Develop a physical hardware prototype.
 - Analyze tracking accuracy and power improvement experimentally.
+ ## Simulation
+
+You can view and run the complete circuit simulation in Tinkercad:
+
+[Tinkercad Circuit Simulation](https://www.tinkercad.com/things/h9Mpbcjv1RV/editel?sharecode=yqGELolNDryUgh0aapeqWdrkl1ARnxltKdgpTljJU5g)
+
+The complete circuit was designed and tested in Tinkercad Circuits.
 
 ## Project Status
 
