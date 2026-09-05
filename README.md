@@ -12,6 +12,8 @@ The system also includes photovoltaic voltage monitoring using a 10 kΩ–10 kΩ
 
 The complete system was designed and simulated using Tinkercad Circuits.
 
+## Circuit Diagram
+![Dual-Axis Solar Tracker Circuit](circuit_diagram.png)
 ## Objectives
 
 - Implement automatic dual-axis solar tracking.
